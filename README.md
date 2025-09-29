@@ -196,11 +196,20 @@ php artisan view:clear
 
 ## Screenshot Aplikasi
 
-* **Dashboard** ![Dashboard](https://via.placeholder.com/800x400?text=Dashboard)
+* **Dashboard**
+  <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ba45289-ca55-4dda-b6d0-a65d6fa308f8" />
 * **Arsip Surat** ![Arsip Surat](https://via.placeholder.com/800x400?text=Arsip+Surat)
+  <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/e11f2c1c-8aa2-4931-90cf-048f7d246e6b" />
+  <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/96eef559-08ac-40ea-b3ac-23a91ddeba7d" />
+  <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/d72cfedc-80f7-4182-a425-5d154c13b271" />
 * **Kategori Surat** ![Kategori](https://via.placeholder.com/800x400?text=Kategori)
+  <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/b3fd8137-d47f-4dcf-b7bd-5f20fc65c28f" />
+  <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/4fd6845d-2377-47b3-9077-18984e8b843f" />
+  <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/459899df-9753-4ef2-a946-afb96fa4e1ac" />
 * **Halaman About** ![About](https://via.placeholder.com/800x400?text=About)
+  <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/9c4960b2-8fed-4042-a891-61a649d4d2f0" />
 * **Preview Surat** ![Preview](https://via.placeholder.com/800x400?text=Preview+Surat)
+  <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/768a4947-7d80-4f37-a0a8-38e9605a774b" />
 
 ---
 
