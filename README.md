@@ -88,7 +88,6 @@ DB_PASSWORD=adminpassword
 ```
 
 6. Generate application key:
-7. 
 ```bash
 php artisan key:generate
 ```
