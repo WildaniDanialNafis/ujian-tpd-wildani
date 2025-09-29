@@ -69,3 +69,47 @@ composer install
 ```bash
 npm install
 ```
+
+4. Buat file .env:
+
+```bash
+cp .env.example .env
+```
+
+5. Sesuaikan konfigurasi database di .env:
+
+```bash
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=db-ujian-tpd
+DB_USERNAME=adminuser
+DB_PASSWORD=adminpassword
+```
+
+6. Generate application key:
+7. 
+```bash
+php artisan key:generate
+```
+
+7. Migrasi dan seeding database:
+
+```bash
+php artisan migrate:fresh --seed
+
+```
+
+8. Compile asset frontend:
+
+```bash
+npm run dev
+```
+
+9. Jalankan server lokal:
+    
+```bash
+php artisan serve
+```
+
+Buka browser: http://localhost:8000
