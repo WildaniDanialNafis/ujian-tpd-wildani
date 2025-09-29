@@ -56,3 +56,5 @@ Tujuan dari aplikasi ini adalah:
 ```bash
 git clone https://github.com/WildaniDanialNafis/ujian-tpd-wildani.git
 cd ujian-tpd-wildani
+
+2. Install dependencies PHP:
