@@ -200,7 +200,7 @@ php artisan view:clear
   <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ba45289-ca55-4dda-b6d0-a65d6fa308f8" />
 * **Arsip Surat** ![Arsip Surat](https://via.placeholder.com/800x400?text=Arsip+Surat)
   <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/e11f2c1c-8aa2-4931-90cf-048f7d246e6b" />
-  <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/96eef559-08ac-40ea-b3ac-23a91ddeba7d" />
+  <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/b8706341-f2ad-4933-a8b8-feccb87c8cd4" />
   <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/d72cfedc-80f7-4182-a425-5d154c13b271" />
 * **Kategori Surat** ![Kategori](https://via.placeholder.com/800x400?text=Kategori)
   <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/b3fd8137-d47f-4dcf-b7bd-5f20fc65c28f" />
