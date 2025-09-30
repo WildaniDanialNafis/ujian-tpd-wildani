@@ -197,18 +197,23 @@ php artisan view:clear
 ## Screenshot Aplikasi
 
 * **Dashboard**
+  (Screenshot dashboard)
   <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ba45289-ca55-4dda-b6d0-a65d6fa308f8" />
 * **Arsip Surat**
+  (Screenshot halaman arsip surat, upload, lihat, dan unduh PDF)
   <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/e11f2c1c-8aa2-4931-90cf-048f7d246e6b" />
   <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/b8706341-f2ad-4933-a8b8-feccb87c8cd4" />
   <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/d72cfedc-80f7-4182-a425-5d154c13b271" />
 * **Kategori Surat**
+  (Screenshot daftar kategori, tambah, edit, hapus kategori)
   <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/b3fd8137-d47f-4dcf-b7bd-5f20fc65c28f" />
   <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/4fd6845d-2377-47b3-9077-18984e8b843f" />
   <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/459899df-9753-4ef2-a946-afb96fa4e1ac" />
 * **Halaman About**
+  (Screenshot halaman About dengan foto dan identitas developer)
   <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/9c4960b2-8fed-4042-a891-61a649d4d2f0" />
 * **Preview Surat**
+  (Screenshot preview surat yang bisa diunduh)
   <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/768a4947-7d80-4f37-a0a8-38e9605a774b" />
 
 ---
